@@ -12,6 +12,8 @@ This is the data behind the story [Be Suspicious Of Online Movie Ratings, Especi
 ## Tools used: 
 Python and it's DA libraries 
 
-Data viz folder contains the investigation plots
-Artificial review analaysis.ipynb contanins the DA analaysis scripts
-all_sites_scores.csv & fandango_scrape.csv are the data sets used for analysis.
+`Data viz figures` folder contains the investigation plots
+
+`Artificial review analaysis.ipynb` contanins the DA analaysis scripts
+
+`all_sites_scores.csv` & `fandango_scrape.csv` are the data sets used for analysis.
