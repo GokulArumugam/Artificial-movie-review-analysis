@@ -17,3 +17,10 @@ Python and it's DA libraries
 `Artificial review analaysis.ipynb` contanins the DA analaysis scripts
 
 `all_sites_scores.csv` & `fandango_scrape.csv` are the data sets used for analysis.
+
+# 🎉 Help Me Improve
+Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
+  
+# 📫 Feedback
+If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/gokularumugam-theanalyst/)
+
